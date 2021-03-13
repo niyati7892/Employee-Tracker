@@ -14,6 +14,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ### App Screen Shots
 ![screnshot1](https://github.com/niyati7892/Employee-Tracker/blob/main/screenshot/screen1.png)
+![screnshot2](https://github.com/niyati7892/Employee-Tracker/blob/main/screenshot/screen1.png)
 
 
 

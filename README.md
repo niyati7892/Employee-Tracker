@@ -13,7 +13,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 
 ### App Screen Shots
-![screnshot1](/Users/niyati/Employee-Tracker/screenshot/screenshot2.png)
+![screnshot1](https://github.com/niyati7892/Employee-Tracker/blob/main/screenshot/screenshot2.png)
 ![screnshot2](/Users/niyati/Employee-Tracker/screenshot/screnshot1.png)
 
 

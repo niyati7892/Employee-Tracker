@@ -9,6 +9,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ### App working example
 
+![screnvideo](./Employee-Tracker/screenshot/employee .gif)
 
 
 ### App Screen Shots

@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyati7892/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niyati7892/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/niyati7892/Employee-Tracker#readme",
+  "dependencies": {
+    "console-table-printer": "^2.8.1",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
